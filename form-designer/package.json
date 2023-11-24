@@ -1,0 +1,12 @@
+{
+  "name": "@lowcode-generator/form-designer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "element-plus": "^2.4.2"
+  }
+}
